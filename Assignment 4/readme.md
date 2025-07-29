@@ -1,9 +1,7 @@
 TASK 1
 This script reads lines from a file named sample.txt and prints each line with its line number.
 If the file does not exist, it shows an error message.
-
-Features:
-
+Steps:
 Sequentially reads all lines from a file.
 
 Strips whitespace from each line's ends.
